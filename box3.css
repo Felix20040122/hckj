@@ -1,0 +1,231 @@
+@charset "utf-8";
+/* CSS Document */
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, q, em, ul, li, ol, dl, dt, dd, form, article, aside, embed, table, td, th, input, button, legend, fieldlset, blockquote, textarea, label, strong, img, cite {box-sizing: border-box; margin: 0; padding: 0; outline: none; }
+body { font-family:"微软雅黑"; font-size: 12px; margin: 0 auto;color: #333;background: #fff;}
+h1, h2, h3, h4, h5, h6 {font-size: 100%;font-weight: normal;}
+table { border-collapse: collapse; }
+ul, li , ol, li{ list-style: none; }
+img{ border: none; vertical-align:top;}
+em, cite, address,i { font-style: normal; font-weight: normal; }
+a { text-decoration:none; outline: none;}
+input { outline:none; border:none; background-color:transparent;}
+input::-ms-clear { display:none; }
+textarea { outline:none; resize:none; ;overflow:auto;border:none;background: transparent;}
+/* 清浮动 */
+body{background: #fff;}
+.clearfix:after,
+.clearfix:before{content: "";display: table;}
+.clearfix:after{clear: both;}
+.clearfix{*zoom:1;}
+.fl{float: left;}
+.fr{float: right;}
+.show{display:block;}
+.hide{display:none;}
+input {-webkit-appearance:none; }
+/*************************/
+
+.maskbgff{display:block; background: #FFF;z-index: 99998;position: fixed; top: 0; left: 0; width: 100%; height: 100%}
+.mask{display: none; background: #000; opacity:.2;z-index: 90; position: fixed; top: 0; left: 0; width: 100%; height: 100%}
+.box_start{z-index: 99999; /*background: url(../images/qd.jpg) no-repeat center;*/ background-size:cover ; width: 100%; height: 100%; position: absolute; top: 0; left: 0; bottom: 0; right: 0;}
+.statr_cont{width: 1000px; height: 270px; position:fixed; top:50%; left: 50%; margin: -135px 0 0 -500px;}
+.statr_cont h1{ margin: 0 auto;display: block;width: 360px; height: 125px;}
+.statr_cont h1 a{display: block;}
+.statr_cont h1 a img{max-width: 100%; display: block; margin: 0 auto;}
+.four_link{width:1000px; height: auto; margin: 90px auto 0;}
+.four_link li{width: 220px; height: 56px; float: left;margin: 0 15px;}
+.four_link li a{background: #fff url(../images/jtqd_05.png) no-repeat 170px center; display: inline-block;height: 56px;line-height: 56px; color: #222;font-size: 14px; padding: 0 0 0 20px;width: 200px;}
+.four_link li a:hover{background: #258efa url(../images/jtqd_03.png) no-repeat 170px center; color: #fff;}
+.jd_point{background: url(../images/ddt_03.png) no-repeat center bottom; width: 100px; height: 30px;color: #fff;font-size: 14px;text-align: center; position: fixed;margin: -15px 0 0 -50px; left: 50%;  bottom: 90px;}
+.go_index{color: #fff; position: fixed; top: 50px; right: 60px; width: 100px; line-height: 24px; height: 24px; color: #fff; text-align: center;}
+.go_index a{ color: #fff;}
+.go_index a:hover{text-decoration: underline;}
+
+/*****************/
+.head{border-bottom: 1px solid #eee; z-index: 90; position: fixed; top: 0; left: 0; width: 100%; height: 100px; margin: 0 auto; background: #fff;}
+.head_cont{width: 100%; height: 100px; margin: 0 auto;}
+.logo{width: 255px; height: 38px; float: left; margin: 35px 0 0 60px;}
+.logo a{width: 255px; height: 38px; display: block;}
+.nav{width: auto; height: 56px; float: right;margin: 25px 60px 0 0}
+.nav li{ float: left;margin: 0 0 0 48px; line-height: 56px; position: relative;}
+.nav li a{display: block; font-size: 14px; color: #333;}
+.nav li a:hover{background: url(../images/alogo_06.png) no-repeat center bottom; color: #258efa;font-weight:bold;}
+.nav li.active a{background: url(../images/alogo_06.png) no-repeat center bottom; color: #258efa;font-weight:bold;}
+.nav li.nav_li a{background: url(../images/alogo_06.png) no-repeat center bottom; color: #258efa;font-weight:bold;}
+
+.seleBox2{display:none; width: 140px; background: #eee; position: absolute; top: 56px; left:-40px;}
+.nav li .seleBox2 dd a{background: none;color: #333;font-weight: normal; text-align: center;height: 40px; line-height: 40px;font-size: 12px;}
+.nav li .seleBox2 dd a:hover{background:#258efa; color: #fff;}
+.maskff{width: 100%; height: 100%; position: absolute; top: 0; left: 0; z-index:2;}
+
+
+
+.burger {
+	height: 30px; 
+	width:26px;
+	position:absolute;
+	top: 25px;
+	right:60px;
+	cursor: pointer;	
+	display: none;
+}
+	div.x,
+	div.y,
+	div.z {
+		position: absolute; margin: auto;
+		top: 0px; bottom: 0px;		
+		background: #258efa;
+		border-radius:2px;
+		-webkit-transition: all 200ms ease-out;
+		   -moz-transition: all 200ms ease-out;
+		    -ms-transition: all 200ms ease-out;
+		     -o-transition: all 200ms ease-out;
+		        transition: all 200ms ease-out;
+	}		
+	div.x, div.y, div.z { height: 3px; width: 26px; }
+	div.y{top: 18px;}
+	div.z{top: 37px;}
+	div.collapse{
+		top: 20px;
+		background:#258efa;
+		-webkit-transition: all 70ms ease-out;
+		   -moz-transition: all 70ms ease-out;
+		    -ms-transition: all 70ms ease-out;
+		     -o-transition: all 70ms ease-out;
+		        transition: all 70ms ease-out;
+	}
+	 
+	
+	div.rotate30{
+		-ms-transform: rotate(30deg); 
+    	-webkit-transform: rotate(30deg); 
+	    transform: rotate(30deg);	
+		-webkit-transition: all 50ms ease-out;
+		   -moz-transition: all 50ms ease-out;
+		    -ms-transition: all 50ms ease-out;
+		     -o-transition: all 50ms ease-out;
+		        transition: all 50ms ease-out;					
+	}
+	div.rotate150{
+		-ms-transform: rotate(150deg); 
+    	-webkit-transform: rotate(150deg); 
+	    transform: rotate(150deg);	
+		-webkit-transition: all 50ms ease-out;
+		   -moz-transition: all 50ms ease-out;
+		    -ms-transition: all 50ms ease-out;
+		     -o-transition: all 50ms ease-out;
+		        transition: all 50ms ease-out;					
+	}
+	
+	div.rotate45{
+		-ms-transform: rotate(45deg); 
+    	-webkit-transform: rotate(45deg); 
+	    transform: rotate(45deg);	
+		-webkit-transition: all 100ms ease-out;
+		   -moz-transition: all 100ms ease-out;
+		    -ms-transition: all 100ms ease-out;
+		     -o-transition: all 100ms ease-out;
+		        transition: all 100ms ease-out;					
+	}
+	div.rotate135{
+		-ms-transform: rotate(135deg); 
+    	-webkit-transform: rotate(135deg); 
+	    transform: rotate(135deg);	
+		-webkit-transition: all 100ms ease-out;
+		   -moz-transition: all 100ms ease-out;
+		    -ms-transition: all 100ms ease-out;
+		     -o-transition: all 100ms ease-out;
+		        transition: all 100ms ease-out;					
+	}
+/*************************************************/
+.w_nav{width:100%;background:rgba(255,255,255,.9);position:fixed;left:0;top:100px;bottom: 0; z-index:80;display: none;}
+.w_Box{}
+.w_Box a{font:20px/1em "微软雅黑";color:#333;display:block;text-align: center;padding:15px 0;}
+.w_Box a:hover{color:#258efa;background:#ccc;}
+.w_Box li.active a{color:#258efa;background:#ccc;}
+.sele_nav{display: none;}
+.w_Box li .sele_nav a{color: #333;font-size: 16px;}
+.w_Box li.active .sele_nav a{color: #333;background:transparent}
+/*************/
+.page{width: 100%; height: 50px; text-align: center; margin: 60px auto;}
+.page a{display: inline-block;margin: 0 5px; width: 50px; height: 50px; line-height: 50px; text-align: center; color: #666;font-size: 14px; background: #fff;}
+.page a.active{ color: #fff;background: #258efa;}
+/******************/
+.footer{width: 100%; height: auto; background: #fff;}
+.footer_cont{width: 1150px; height: auto;margin: 60px auto 40px 200px;}
+.footer_cont dl{  float:left; width:200px; margin: 0 30px 0 0;}
+.footer_cont dl dt{position: relative; color: #666;font-size: 16px;margin: 0 0 10px; padding: 0 0 10px;}
+.footer_cont dl dt:before{content: "";position: absolute; bottom:0; left: 0;width: 30px; height: 1px; color: #333; background: #333;}
+.footer_cont dl dd{ float: left;width: 100%; }
+.footer_cont dl dd a{color: #999; line-height: 30px;}
+.footer_cont dl dd a:hover{color: #666;}
+.footer_cont dl span{width: 30px; height: 30px; position: relative; border-radius:50%;display: block; float: left;margin:0 0 0 8px;}
+.footer_cont dl span a{width: 40px; height: 40px;display: block;border-radius:50%; }
+/*.footer_cont dl span.icon_fx1 a{background:url(../images/ficon_03.png) no-repeat center;}
+.footer_cont dl span.icon_fx2 a{background:url(../images/ficon_05.png) no-repeat center;}
+.footer_cont dl span.icon_fx3 a{background:url(../images/ficon_07.png) no-repeat center;}
+.footer_cont dl span.icon_fx4 a{background:url(../images/ficon_09.png) no-repeat center;}
+.footer_cont dl span.icon_fx1 a:hover{background:#258EFA url(../images/ficon_032.png) no-repeat center;}
+.footer_cont dl span.icon_fx2 a:hover{background:#258EFA url(../images/ficon_052.png) no-repeat center;}
+.footer_cont dl span.icon_fx3 a:hover{background:#258EFA url(../images/ficon_072.png) no-repeat center;}
+.footer_cont dl span.icon_fx4 a:hover{background:#258EFA url(../images/ficon_092.png) no-repeat center;}*/
+.showl{
+	display: none;position: absolute; top: 0; left: 0; z-index: 3;
+}
+.mo{
+	position: absolute; top: 0; left: 0; z-index: 2;
+}
+.footer_cont dl span a:hover .mo{
+	display: none;
+}
+.footer_cont dl span a:hover{
+background:#258EFA	
+}
+.footer_cont dl span a:hover .showl{
+	display: block;
+}
+.db_foot{width:1150px;text-align: center; color: #aaa; border-top:1px solid #eeeeee; line-height: 90px; margin: 0 auto;}
+.fix_footer{transition:.9s; width: 100%; z-index: 10;position: fixed; left: 0;bottom: -100%;border-top:1px solid #e5e5e5;}
+.fp-viewing-page5 .fix_footer{ bottom: 0;}
+
+
+
+
+@media screen and (max-width:1280px) {
+	.footer_cont{width: 98%; margin: 0 1%;}
+	.footer_cont{margin: 20px 0;}
+	.db_foot{width: 100%;margin: 0;}
+	.footer_cont dl{margin: 0;}
+	
+	.footer_cont dl{width: 25%; text-align: center;}
+	.footer_cont dl dt{margin: 0;}
+	.footer_cont dl dt:before{display: none;}
+	
+}
+
+@media screen and (max-width:1000px) {
+	.four_link{width: 500px;}
+	.four_link li{margin: 0 15px 15px;}
+}
+
+@media screen and (max-width:950px) {
+	.nav{display: none;}
+	.burger{display: block;}
+}
+@media screen and (max-width:750px) {
+	.db_foot{padding: 10px; line-height: 20px;}
+	.footer_cont dl span{margin:0}
+}
+
+@media screen and (max-width:600px) {
+	.statr_cont{width: 100%; margin: 0; left: 0;}
+	.statr_cont h1{width:80%; margin: 0 10%;}
+	.statr_cont{ top: 15%;}
+	.four_link{width: 90%;margin: 20px 5% 0;}
+	.four_link li{width: 100%; margin: 0 0 15px;}
+	.four_link li a{width: 100%; background: #fff; text-align: center;}
+	.jd_point{bottom: 20px;}
+	.logo{margin: 35px 0 0 5px;}
+	.burger{right: 5px;}
+	
+}
+
