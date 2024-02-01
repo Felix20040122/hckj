@@ -1,0 +1,915 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>滑澈科技</title>
+    <meta name="keywords" content="绿色,环保,节能,科技" />
+    <meta name="description" content="滑澈科技官方网站" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+	<link rel="stylesheet" type="text/css" href="https://felix20040122.github.io/hckj/box1.css"/>
+	<link rel="stylesheet" type="text/css" href="https://felix20040122.github.io/hckj/box2.css"/>
+	<link rel="stylesheet" type="text/css" href="https://felix20040122.github.io/hckj/box3.css"/>
+	<link rel="stylesheet" type="text/css" href="https://felix20040122.github.io/hckj/box4.css"/>
+	<script type="text/javascript" src="https://felix20040122.github.io/hckj/ok1.js"></script>
+	<script type="text/javascript" src="https://felix20040122.github.io/hckj/ok2.js"></script>
+	<script type="text/javascript" src="https://felix20040122.github.io/hckj/ok3.js"></script>
+	<script type="text/javascript" src="https://felix20040122.github.io/hckj/ok4.js"></script>
+<style>
+    .logo1{
+        width: 95px;
+        height: 95px;
+        position: fixed;
+        top: 5px;
+        left: 100px;
+    }
+    .hckjZiTi {
+        position: fixed;
+        top: 30px;
+        left: 190px;
+        font-family: "Simsun";
+        font-size: 40px;
+      }
+</style>
+</head>
+<body>
+<div class="global_container">
+	<div class="w_nav">
+	<div class="w_Box">
+		<ul class="welList">
+			<li class="active"><a href=" https://felix20040122.github.io/hckj/second.html">网站首页</a></li>
+            																																																																	<li class="">
+						<!--<a href="#">新闻动态</a>-->
+						<a href="javascript:;">新闻动态</a>
+						<dl class="sele_nav">
+						<dd><a href="#">团队新闻</a></dd>
+						<dd><a href="#">业务动态</a></dd>
+						<dd><a href="#">通知公告</a></dd>
+						
+						</dl>
+					</li>
+						<li class="">
+						<!--<a href="#">集团业务</a>-->
+						<a href="javascript:;">团队业务</a>
+							
+					</li>
+						<li class="">
+						<!--<a href="http://www.chinashanhai.com.cn/category/Category/index/cid/32">关于山海</a>-->
+						<a href="javascript:;">关于滑澈</a>
+						<dl class="sele_nav">
+						<dd><a href="#">团队简介</a></dd>
+						<dd><a href="#">企业文化</a></dd>
+						<dd><a href="#">团队寄语</a></dd>
+					    <dd><a href="#">团队管理</a></dd>
+						</dl>
+							
+					</li>
+																																																											
+		</ul>
+	</div>
+</div>
+<div class="head">
+	<div class="head_cont">
+		<h1 class="logo"><a href="#"><img class="logo1" src="https://i0.imgs.ovh/2024/01/29/KBwTt.jpeg" /></a><h1 class="hckjZiTi">滑澈科技</h1></h1>
+		<ul class="nav clearfix">
+			<li class="nav_li"><a href=" https://felix20040122.github.io/hckj/second.html">网站首页</a></li>
+																																																																								<li class="">
+		<a href="#" target="">新闻动态</a>
+			<dl class="seleBox2 sel_1">
+			<dd><a href="#" target="">团队新闻</a></dd>
+			<dd><a href="#" target="">业务动态</a></dd>
+			<dd><a href="#" target="">通知公告</a></dd>
+		</dl>
+							
+					</li>
+					 <li class="">
+						<a href="#" target="">团队业务</a>
+					    <dl class="seleBox2 sel_1">
+				        <dd><a href="#" target="">团队风采</a></dd>
+						 <dd><a href="#" target="">战略规划</a></dd>													
+                        <dd><a href="#" target="">市场分析</a></dd>
+						</dl>
+							
+					</li>
+						<li class="">
+						<a href="#" target="">关于滑澈</a>
+				          <dl class="seleBox2 sel_1">
+					     <dd><a href="#" target="">团队简介</a></dd>
+					     <dd><a href="#" target="">企业文化</a></dd>
+						 <dd><a href="#" target="">团队寄语</a></dd>
+						<dd><a href="#" target="">团队管理</a></dd>
+						</dl>
+							
+					</li>
+																																																											
+		</ul>
+		<div class="burger">
+			<div class="x"></div>
+			<div class="y"></div>
+            <div class="z"></div>
+		</div>
+		
+		
+	</div>
+</div>
+
+	<!--************************************-->
+	<div id="dowebok" class="clearfix">
+		<div class="section box_1 clearfix">
+			<div class="pc_silder">
+				<div class="swiper-container">
+					<div class="swiper-wrapper">
+				<div class="swiper-slide" style="background: url(1.jpg) no-repeat center ; background-size: cover;">
+							<a href="#" target="_blank" style="display:block">
+									<div class="ban_img">
+
+								<h4></h4>
+							<h3></h3>
+							<p></p>
+
+						<!-- <a href="#" target="_blank">点击查看</a> -->
+									</div>
+							</a>
+									</div>
+					<div class="swiper-slide" style="background: url(http://www.chinashanhai.com.cn/static/uploadfile/content/2019_04/{78731F81-844C-D773-B2D7-D2491BE8B691}.jpg) no-repeat center;">
+					<a href="http://www.chinashanhai.com.cn/category/Category/index/cid/14" target="_blank" style="display:block">
+					<div class="ban_img">
+
+																								<h4></h4>
+												<h3></h3>
+												<p></p>
+
+												<!-- <a href="http://www.chinashanhai.com.cn/category/Category/index/cid/14" target="_blank">点击查看</a> -->
+																							</div>
+										</a>
+									</div>
+									  																		  	<div class="swiper-slide" style="background: url(http://www.chinashanhai.com.cn/static/uploadfile/content/2019_05/{10934DDA-82AF-A2D5-7A56-7EFEDE32E669}.jpg) no-repeat center;">
+																					<a href="http://www.chinashanhai.com.cn/category/Category/index/cid/12" target="_blank" style="display:block">
+																						<div class="ban_img">
+
+																								<h4></h4>
+												<h3></h3>
+												<p></p>
+
+												<!-- <a href="http://www.chinashanhai.com.cn/category/Category/index/cid/12" target="_blank">点击查看</a> -->
+																							</div>
+										</a>
+									</div>
+									  																		  	<div class="swiper-slide" style="background: url(http://www.chinashanhai.com.cn/static/uploadfile/content/2019_04/{975E30FC-17EA-E99B-45C1-9A7CA06FD924}.jpg) no-repeat center;">
+																					<a href="http://www.chinashanhai.com.cn/category/Category/index/cid/104" target="_blank" style="display:block">
+																						<div class="ban_img">
+
+																								<h4></h4>
+												<h3></h3>
+												<p></p>
+
+												<!-- <a href="http://www.chinashanhai.com.cn/category/Category/index/cid/104" target="_blank">点击查看</a> -->
+																							</div>
+										</a>
+									</div>
+									  																		  	<div class="swiper-slide" style="background: url(http://www.chinashanhai.com.cn/static/uploadfile/content/2022_09/{DA99EB34-B054-1F61-09FE-FD96CE557DDF}.jpg) no-repeat center;">
+																					<a href="http://www.chinashanhai.com.cn/category/Category/index/cid/13" target="_blank" style="display:block">
+																						<div class="ban_img">
+
+																								<h4></h4>
+												<h3></h3>
+												<p></p>
+
+												<!-- <a href="http://www.chinashanhai.com.cn/category/Category/index/cid/13" target="_blank">点击查看</a> -->
+																							</div>
+										</a>
+									</div>
+									  							
+					</div>
+					<div class="page_box">
+						<div class="page_num swiper-pagination">
+						</div>
+						<div class="lin_bar"><div class="lin_bar_cont"></div></div>
+						<span>
+							<a class="arrow arrow-left" href="javascript:;"></a>
+						  <a class="arrow arrow-right" href="javascript:;"></a>
+						</span>
+					</div>
+				</div>
+			</div>
+			<!--******************************************-->
+			<div class="phone_silder">
+				<div class="swiper-container">
+					<div class="swiper-wrapper">
+																		<div class="swiper-slide"> <a href="http://www.chinashanhai.com.cn/category/Category/index/cid/8"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2019_05/{1C614017-0635-DA82-8E33-CFBF5D0F860C}.jpg" ></a> </div>
+												<div class="swiper-slide"> <a href="http://www.chinashanhai.com.cn/category/Category/index/cid/14"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2019_04/{B7E141CC-E597-CB08-B04E-94CE74AE29A7}.jpg" ></a> </div>
+												<div class="swiper-slide"> <a href="http://www.chinashanhai.com.cn/category/Category/index/cid/12"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2019_05/{0520DD5B-18D0-80EA-5266-98EFD1DB2BCC}.jpg" ></a> </div>
+												<div class="swiper-slide"> <a href="http://www.chinashanhai.com.cn/category/Category/index/cid/104"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2019_04/{385776D8-B079-F4DA-C48C-626A3F3F804D}.jpg" ></a> </div>
+												<div class="swiper-slide"> <a href="http://www.chinashanhai.com.cn/category/Category/index/cid/13"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2022_09/{5F7801FC-665D-2DA1-01D3-DBEDDEE33E06}.jpg" ></a> </div>
+												
+					</div>
+					<div class="swiper-pagination2"></div>
+				</div>
+			</div>
+			<!--*********************************-->
+			<!--<div class="no"></div>-->
+		</div>
+		<div class="section box_2 clearfix">
+			<div class="no"></div>
+			<div class="about_us clearfix">
+													<div class="about_us_ww clearfix">
+						<h4>ABOUT US</h4>
+						<h3>北京山海文旅集团</h3>
+						<p class="about_cont">
+							北京山海文旅集团有限公司，是一家“战略投资+产业运营”双轮驱动的综合型集团公司，业务涵盖文化旅游、乡村振兴、城市更新、金融投资及数字科技等多个领域，旗下有北京山海旅游集团、猴开心(北京)国际旅行社、慢村民宿投资公司、山海恒通（北京）投资集团等50多家子公司。						</p>
+					</div>
+					<div class="img_about_box clearfix">
+						<a href="http://www.chinashanhai.com.cn/category/Category/index/cid/32" class="mare_see">SEE MORE</a>
+						<div class="img_about">
+							<!--<img src="http://www.chinashanhai.com.cn/template/default/images/abo_03.png"/>-->
+							<img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2022_09/{A6524C81-7EFC-B4DB-5B8A-AAD6B41DC959}.jpg"/>
+						</div>
+					</div>
+								
+			</div>
+		</div>
+		<div class="section box_3 clearfix">
+			<div class="video33">
+			<div class="video_box" style="display: block;">
+				<!--<span class="controll_icon controll_icon2"></span>-->
+													<a href="javascript:void(0);" target="_blank">
+					<div class="video_cont">
+						<!--<video loop="loop" autoplay="autoplay" id="vido_one">-->
+							<div class="vmask"></div>
+						    <div class="picvdo" style="background: url(http://www.chinashanhai.com.cn/static/uploadfile/content/2019_03/{D814CF62-12DD-EBB6-4D7F-B6DB6B524062}.jpg) no-repeat;background-size:100%;"></div>
+						    <span class="controll_icon"></span>
+						<video id="vido_one" loop="loop" webkit-playsinline="true">
+							<source src="http://www.chinashanhai.com.cn/static/uploadfile/" type="video/mp4"></source>
+						</video>
+						
+					</div>
+					</a>
+								
+				
+				<!-- <div class="tit_jt">
+					<b>集团产业</b>
+					<span>GROUP INDUSTRY</span>
+				</div> -->
+				
+			</div>
+			<div class="tab3_sp">
+				<!--<div class="hau_k"></div>-->
+				<ul class="clearfix">
+																	
+							<li>
+								<a href="http://www.chinashanhai.com.cn/category/Category/index/cid/14" target="_blank">
+									<div class="img_vd"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2022_10/{D9AA2599-0CC8-38D0-E970-080B338D8C89}.jpg"/></div>
+									<div class="word_vd">
+										<span>旅游项目</span>
+										<p>Tourism Services</p>
+									</div>
+								</a>
+							</li>
+						    
+												
+							<li>
+								<a href="http://www.chinashanhai.com.cn/category/Category/index/cid/13" target="_blank">
+									<div class="img_vd"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2022_10/{72ACEF0F-4781-5B11-1265-B7975EE8AC3C}.jpg"/></div>
+									<div class="word_vd">
+										<span>金融投资</span>
+										<p>Financial Services</p>
+									</div>
+								</a>
+							</li>
+						    
+												
+							<li>
+								<a href="http://www.chinashanhai.com.cn/category/Category/index/cid/12" target="_blank">
+									<div class="img_vd"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2022_10/{28D8CE97-E467-9224-8540-C2A9048150D2}.jpg"/></div>
+									<div class="word_vd">
+										<span>实业投资</span>
+										<p>Industrial Investment</p>
+									</div>
+								</a>
+							</li>
+						    
+												
+					<!-- <li>
+						<div class="img_vd"><img src="http://www.chinashanhai.com.cn/template/default/images/vb_03.png"/></div>
+						<div class="word_vd">
+							<span>金融服务</span>
+							<p>Financial Services</p>
+						</div>
+					</li>
+					<li>
+						<div class="img_vd"><img src="http://www.chinashanhai.com.cn/template/default/images/vb_05.png"/></div>
+						<div class="word_vd">
+							<span>实业投资</span>
+							<p>Industrial Investment</p>
+						</div>
+					</li> -->
+				</ul>
+			</div>
+			<!--<div class="maskff"></div>-->
+			<a href="http://www.chinashanhai.com.cn/category/Category/index/cid/45" class="more_sp">更多视频></a>
+			</div>
+		</div>
+		<div class="section box_4 clearfix">
+			<div class="box_4_cont clearfix">
+				<div class="tit_jt">
+					<b>新闻动态</b>
+					<span>NEWS</span>
+				</div>
+				<div class="left_tab3 clearfix">
+					<ul class="tab3_new clearfix">
+						<!--<li class="active"><a href="###">集团新闻</a></li>-->
+						<!--<li><a href="###">通知公告</a></li>-->
+						<!--<li><a href="###">业务动态</a></li>-->
+																				<li class="active"><a href="javascript:;">集团新闻</a></li>
+														<li class=""><a href="javascript:;">业务动态</a></li>
+														<li class=""><a href="javascript:;">通知公告</a></li>
+														<li class=""><a href="javascript:;">行业资讯</a></li>
+													
+					</ul>
+				</div>
+				<a href="http://www.chinashanhai.com.cn/category/Category/index/cid/2" class="look_more">查看更多></a>
+				<div class="list_new clearfix">
+																				<!--8-->
+										<div class="tab_box clearfix">
+						<ul class="clearfix">
+																					<li>
+								<a href="http://www.chinashanhai.com.cn/content/Content/index/id/1083">
+									<div class="new_img"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2023_12/{D8FCECF5-53EB-DE5B-C3C5-42CDF9BAAD62}.jpg"/></div>
+									<div class="new-txt">
+										<h3>喜讯：集团董事长王高超当选中国文化旅游摄影协会副会长<span>2023-12-29</span></h3>
+										<p>12月29日，在中国文化旅游摄影协会第二届二次理事会上，北京山海文旅集团董事长王高超当选为协会副会长并担任法人代表。</p>
+										<h4><span>查看详情——</span></h4>
+									</div>
+								</a>
+							</li>
+														<li>
+								<a href="http://www.chinashanhai.com.cn/content/Content/index/id/1084">
+									<div class="new_img"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2023_12/{1782D89B-9799-7649-8A33-D60B8A4EB6BC}.png"/></div>
+									<div class="new-txt">
+										<h3>肯德基签约山海文旅集团·广饶西关古街<span>2023-12-29</span></h3>
+										<p>12月27日，全球知名的快餐品牌肯德基与山海文旅集团·广饶西关古街达成合作，宣布在广饶西关古街开设全新品牌门店。</p>
+										<h4><span>查看详情——</span></h4>
+									</div>
+								</a>
+							</li>
+														<li>
+								<a href="http://www.chinashanhai.com.cn/content/Content/index/id/1054">
+									<div class="new_img"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2023_12/{8EDE006F-C37A-9A9F-70D0-55C5F8C95870}.jpg"/></div>
+									<div class="new-txt">
+										<h3>喜报：广饶西关古街荣膺东营市市级特色商业街区称号<span>2023-12-15</span></h3>
+										<p>近日，东营市商务局公布了第二批东营市市级特色商业街区名单，由北京山海文旅集团打造的广饶西关古街成功入选，荣膺东营市市级特色商业街区称号。</p>
+										<h4><span>查看详情——</span></h4>
+									</div>
+								</a>
+							</li>
+														
+						</ul>
+					</div>
+										<!--7-->
+										<div class="tab_box clearfix">
+						<ul class="clearfix">
+																					<li>
+								<a href="http://www.chinashanhai.com.cn/content/Content/index/id/756">
+									<div class="new_img"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2023_05/{521E42D8-2F12-4CA7-1648-AF94818CC614}.jpeg"/></div>
+									<div class="new-txt">
+										<h3>第13届“5·19中国旅游日”东营分会场暨黄河口美食文化季在广饶西关启幕<span>2023-05-19</span></h3>
+										<p>5月19日，第13届“中国旅游日”东营分会场暨黄河口美食文化季启动仪式在广饶县西关古街拉开帷幕。</p>
+										<h4><span>查看详情——</span></h4>
+									</div>
+								</a>
+							</li>
+														<li>
+								<a href="http://www.chinashanhai.com.cn/content/Content/index/id/747">
+									<div class="new_img"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2023_04/{B2EEE6D1-7282-BE37-7EA4-32D23D88C153}.jpeg"/></div>
+									<div class="new-txt">
+										<h3>慢村里民宿活动周丨缠花一下 让绽放的瞬间定格在指尖<span>2023-04-11</span></h3>
+										<p>4月8日，以“缠花一夏”为主题的首次非遗手工艺制作活动，在泰州稻河古街慢村里民宿-菊花园60号院成功举办。</p>
+										<h4><span>查看详情——</span></h4>
+									</div>
+								</a>
+							</li>
+														<li>
+								<a href="http://www.chinashanhai.com.cn/content/Content/index/id/734">
+									<div class="new_img"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2023_02/{1DD20640-A6D4-9F07-DE2A-0E236D927598}.png"/></div>
+									<div class="new-txt">
+										<h3>山海文旅集团·西关古街2023吃喝玩乐最“宵”遥新春庙会圆满落幕<span>2023-02-06</span></h3>
+										<p>2月6日，历时5天的山海文旅集团·西关古街2023吃喝玩乐最“宵”遥新春庙会圆满落幕。</p>
+										<h4><span>查看详情——</span></h4>
+									</div>
+								</a>
+							</li>
+														
+						</ul>
+					</div>
+										<!--6-->
+										<div class="tab_box clearfix">
+						<ul class="clearfix">
+																					<li>
+								<a href="http://www.chinashanhai.com.cn/content/Content/index/id/607">
+									<div class="new_img"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2021_07/{30F23197-31A7-BB97-AEB9-65A21BCE7D80}.jpg"/></div>
+									<div class="new-txt">
+										<h3> 公告：汛期出行安全提示<span>2023-07-10</span></h3>
+										<p>进入汛期，雷电、狂风、强降水等极端天气易发频发，出行安全风险增大。</p>
+										<h4><span>查看详情——</span></h4>
+									</div>
+								</a>
+							</li>
+														<li>
+								<a href="http://www.chinashanhai.com.cn/content/Content/index/id/723">
+									<div class="new_img"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2022_12/{FF9A739E-C2DB-90FB-851F-DB9933A684A0}.png"/></div>
+									<div class="new-txt">
+										<h3>公告：稻河古街区各景点恢复开放公告<span>2022-12-07</span></h3>
+										<p>按照疫情防控要求，稻河古街区各景点从即日起，恢复对外开放。</p>
+										<h4><span>查看详情——</span></h4>
+									</div>
+								</a>
+							</li>
+														<li>
+								<a href="http://www.chinashanhai.com.cn/content/Content/index/id/683">
+									<div class="new_img"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2022_09/{D577D247-D100-3AE4-5234-D77C6E595DD4}.jpg"/></div>
+									<div class="new-txt">
+										<h3>通知：受台风影响，稻河古街区各景点暂停开放<span>2022-09-15</span></h3>
+										<p></p>
+										<h4><span>查看详情——</span></h4>
+									</div>
+								</a>
+							</li>
+														
+						</ul>
+					</div>
+										<!--21-->
+										<div class="tab_box clearfix">
+						<ul class="clearfix">
+																					<li>
+								<a href="http://www.chinashanhai.com.cn/content/Content/index/id/1114">
+									<div class="new_img"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2024_01/{C70D345F-1F8B-C981-51A8-E7075E74EBE2}.jpg"/></div>
+									<div class="new-txt">
+										<h3>观点：发展入境旅游需要更多便利措施<span>2024-01-31</span></h3>
+										<p>国际旅游竞争力取决于国家形象、基础设施、公共服务、签证、移民、航线等诸多因素，而签证、移民、支付等便利化措施则是发展入境旅游的底层逻辑和基础构件。其中，客源国公民获取入境签证的时间、距离、费用、审查要件，更是访问意愿、旅游决策、消费支出和满意评价的关键要素。在同等情况下，目的地国家的签证、移民、支付政策越便利，国际旅游竞争力就越高。</p>
+										<h4><span>查看详情——</span></h4>
+									</div>
+								</a>
+							</li>
+														<li>
+								<a href="http://www.chinashanhai.com.cn/content/Content/index/id/1106">
+									<div class="new_img"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2024_01/{4160DB76-01D9-00A8-FB1B-1C34118ED6FB}.jpg"/></div>
+									<div class="new-txt">
+										<h3>探讨：城市更新与休闲拓展里的复杂和简单<span>2024-01-30</span></h3>
+										<p>2024年就是人才的竞争，又体现为智慧的竞争，所以真正需要的不是招商引资，而是招才引智。</p>
+										<h4><span>查看详情——</span></h4>
+									</div>
+								</a>
+							</li>
+														<li>
+								<a href="http://www.chinashanhai.com.cn/content/Content/index/id/1108">
+									<div class="new_img"><img src="http://www.chinashanhai.com.cn/static/uploadfile/content/2024_01/{01357780-D270-8093-729F-B622D1F9C34E}.jpg"/></div>
+									<div class="new-txt">
+										<h3>探讨：金融助力文化和旅游项目建设和产业发展新思路<span>2024-01-30</span></h3>
+										<p>拓展文化和旅游产业发展“五大空间”，推动文化产业和旅游业高质量发展。</p>
+										<h4><span>查看详情——</span></h4>
+									</div>
+								</a>
+							</li>
+														
+						</ul>
+					</div>
+										
+				</div>
+
+				
+
+			</div>
+			<!--************-->
+		</div>
+		<div class="section fp-auto-height box_5 clearfix">
+		</div>
+	</div>
+	<!--*********************-->
+	<ul id="menu" class="left_nav">
+		<li data-menuanchor="page1" class="active"><a href="#page1">01</a></li>
+		<li data-menuanchor="page2"><a href="#page2">02</a></li>
+		<li data-menuanchor="page3"><a href="#page3">03</a></li>
+		<li data-menuanchor="page4"><a href="#page4">04</a></li>
+		<li data-menuanchor="page5"><a href="#page5">05</a></li>
+	</ul>
+	<!--***************************************--->
+	<div class="right_yw"></div>
+</div>
+<!--***************************************--->
+<div class="fix_footer">
+	<!--******************************************-->     
+        <div class="footer clearfix">
+            <div class="footer_cont clearfix">
+                                                                                                                                                                                                                                                                                                    <dl>
+                        <dt>新闻动态</dt>
+                                                                                                                                                        <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/8">集团新闻</a></dd>
+                                                                                                                                <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/7">业务动态</a></dd>
+                                                                                                                                <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/6">通知公告</a></dd>
+                                                                                                                                <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/21">行业资讯</a></dd>
+                                                                                        
+                    </dl>
+                                                                                                                                    <dl>
+                        <dt>集团业务</dt>
+                                                                                                                                                                                                                                                                                                                                            <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/116">旅游科技</a></dd>
+                                                                                                                                <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/117">乡村振兴</a></dd>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/12">实业投资</a></dd>
+                                                                                                                                <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/13">金融投资</a></dd>
+                                                                                                                                                                                                                
+                    </dl>
+                                                                                                                                    <dl>
+                        <dt>关于山海</dt>
+                                                                                                                                                        <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/32">集团简介</a></dd>
+                                                                                                                                <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/34">企业文化</a></dd>
+                                                                                                                                <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/106">集团寄语</a></dd>
+                                                                                                                                <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/33">管理团队</a></dd>
+                                                                                        
+                    </dl>
+                                                                                                                                                                                                                                            
+                <dl>
+                    <dt>联系我们</dt>
+                    <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/5">公司地址</a></dd>
+                    <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/4">加入我们</a></dd>
+                </dl>
+                <!-- <dl>
+                    <dt>集团概况</dt>
+                                                                                                    <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/32">集团简介</a></dd>
+                                                                                                        <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/34">企业文化</a></dd>
+                                                                                                        <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/106">集团寄语</a></dd>
+                                                                                                        <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/33">管理团队</a></dd>
+                                                                            
+                </dl>
+                <dl>
+                    <dt>新闻资讯</dt>
+                          
+                                
+                                                                    <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/8">集团新闻</a></dd>
+                                                                
+                                                                    <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/7">业务动态</a></dd>
+                                                                
+                                                                    <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/6">通知公告</a></dd>
+                                                                
+                                                                    <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/21">行业资讯</a></dd>
+                                                                                    
+                </dl>
+                <dl>
+                    <dt>产业中心</dt>
+                          
+                                
+                                  
+                                    <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/14">文化旅游</a></dd>
+                                                           
+                                
+                                                           
+                                
+                                                           
+                                
+                                  
+                                    <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/116">旅游科技</a></dd>
+                                                           
+                                
+                                  
+                                    <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/117">乡村振兴</a></dd>
+                                                           
+                                
+                                  
+                                    <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/118">城市更新</a></dd>
+                                                           
+                                
+                                                           
+                                
+                                                           
+                                
+                                                           
+                                
+                                                           
+                                
+                                                           
+                                
+                                                           
+                                
+                                                           
+                                
+                                  
+                                    <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/12">实业投资</a></dd>
+                                                           
+                                
+                                  
+                                    <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/13">金融投资</a></dd>
+                                                           
+                                
+                                                           
+                                
+                                                           
+                                                    
+                </dl>
+                <dl>
+                    <dt>联系我们</dt>
+                    <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/5">公司地址</a></dd>
+                    <dd><a href="http://www.chinashanhai.com.cn/category/Category/index/cid/4">加入我们</a></dd>
+                </dl> -->
+                                                    <dl>
+                        <dt>社交账号</dt>
+                                                           <!--  <span class="icon_fx1"><a href="http://service.weibo.com/share/share.php?url=http://www.chinashanhai.com.cn/&sharesource=weibo&title=&appkey="></a></span>
+                         <span class="icon_fx2"><a href="javascript:;" id='qq'></a></span>
+                        <span class="icon_fx3"><a href="javascript:;" id='weixin'></a></span> 
+    					<span class="icon_fx4"><a href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=http://www.chinashanhai.com.cn/&sharesource=qzone&title=" id='wx'></a></span>  -->
+                                                <span class="icon_fx1"><a href="https://weibo.com/u/6551648518" target="_Blank">
+                            <img class="mo" src="http://www.chinashanhai.com.cn/static/uploadfile/content/2019_02/{D5C4DBA3-3AD7-BCF3-01C7-8D8443F17615}.png"/>
+                            <img class="showl" src="http://www.chinashanhai.com.cn/static/uploadfile/content/2019_02/{BC8FE47D-F4C9-5439-DDA3-85D7BD62FD80}.png"/>
+                        </a></span>
+                                                                                                       <!--  <span class="icon_fx1"><a href="http://service.weibo.com/share/share.php?url=http://www.chinashanhai.com.cn/&sharesource=weibo&title=&appkey="></a></span>
+                         <span class="icon_fx2"><a href="javascript:;" id='qq'></a></span>
+                        <span class="icon_fx3"><a href="javascript:;" id='weixin'></a></span> 
+    					<span class="icon_fx4"><a href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=http://www.chinashanhai.com.cn/&sharesource=qzone&title=" id='wx'></a></span>  -->
+                                                    <span class="icon_fx3"><a href="javascript:;" id='weixin'>
+                                <img class="mo" src="http://www.chinashanhai.com.cn/static/uploadfile/content/2019_02/{99A0D0BB-563B-43E3-0ACF-DF8AC04D3EFA}.png"/>
+                                <img class="showl" src="http://www.chinashanhai.com.cn/static/uploadfile/content/2019_02/{D2067B7C-1646-D4DC-431B-5F1BE05B21C9}.png"/>
+                            </a></span> 
+                                                                                                                                                                                                                    </dl>
+                                
+                <!--  <dl>
+                    <dt>社交账号</dt>
+                    <span class="icon_fx1">
+                    	<a href="http://service.weibo.com/share/share.php?url=http://www.chinashanhai.com.cn/&sharesource=weibo&title=&appkey=">
+                    		<img class="mo" src="http://www.chinashanhai.com.cn/template/default/images/ficon_05.png"/>
+                    		<img class="showl" src="http://www.chinashanhai.com.cn/template/default/images/ficon_052.png"/>
+                    	</a>
+                    </span>
+                    <span class="icon_fx2"><a href="javascript:;" id='qq'></a></span>
+                    <span class="icon_fx3"><a href="javascript:;" id='weixin'></a></span> 
+                    <span class="icon_fx4"><a href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=http://www.chinashanhai.com.cn/&sharesource=qzone&title=" id='wx'></a></span> 
+                </dl>  -->
+                
+                
+                
+            </div>
+<!--*****************************-->
+            <div class="db_foot">
+                 北京山海文旅集团版权所有 &nbsp;<a href="http://beian.miit.gov.cn/" target="_blank" data-spm-anchor-id="5176.8112568.7y9jhqsfz.110":>京ICP备19019908号-1</a>
+            </div>
+        </div>
+        <script>
+            $(function(){
+                var HOST_NAME="http://www.chinashanhai.com.cn/";
+                var title="北京山海文旅集团有限公司";
+                // console.log(title);
+                // console.log(HOST_NAME);
+                var mourl= "http://service.weibo.com/share/share.php?url="+HOST_NAME+"&sharesource=weibo&title="+title+"&appkey=";
+                // console.log(mourl);
+                url=$(" input[ name='url' ] ").val();
+                console.log(url);
+            })
+			$("#qq").click(function(){
+				window.open('http://www.chinashanhai.com.cn/content/Content/weixin/id//ishome/1');
+			})
+
+			$("#weixin").click(function(){
+				window.open('http://www.chinashanhai.com.cn/content/Content/weixin/id//ishome/1');
+			})
+
+		</script>
+</div>
+
+
+
+
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript">
+//	  $(window).one('touchstart', function(){
+//		   document.getElementById('vido_one').play(); 
+//		})
+		//微信下兼容处理
+//		document.addEventListener("WeixinJSBridgeReady",function() { 
+//			document.getElementById('vido_one').play(); 
+//		}, false);
+	
+	$(function(){
+		$("#vido_one").hide()
+		setTimeout(function(){ 
+			$(".no").hide()
+		}, 600);
+		$(".controll_icon").click(function(){
+			$(this).fadeOut(200)
+            $(this).parents(".video_cont").find("video").get(0).play();
+            $(".picvdo").hide()
+		})
+		$(".vmask").click(function(){
+            $(".controll_icon").fadeIn()
+            $(this).parents(".video_cont").find("video").get(0).pause();
+            $(".picvdo").show()
+		})
+		
+		/********************/
+		 var interval = setInterval(increment,150);
+	        var current = 0;
+	        function increment(){
+	            current++;
+	            $('#counter').html(current+'%');
+	            if(current == 100) {
+	                current = 100;
+	                clearInterval(interval);
+//	                location.href="index.php";
+                      $(".box_start").hide() 
+                      $(".maskbgff").hide()  
+                      
+	            }
+	        }
+	     $(".jinru").click(function(){
+	     	$(".box_start").hide() 
+	     	$(".maskbgff").hide() 
+	     })
+	        
+		/******/
+		$(".list_new").find(".tab_box:first").css("display","block");
+//		$(".tab3_new li:first").addClass("active");
+		$(".tab3_new li").each(function(j){
+			$(this).click(function(){
+				$(".tab3_new li").removeClass("active");
+				$(this).addClass("active");
+				$(".tab_box").hide();
+				$(".tab_box:eq("+j+")").show();
+			});
+		});
+//		$('.tab3_new li').hover(function(){
+//				$(this).addClass("active");
+//		    },function(){
+//				$(this).removeClass("active");
+//		}); 
+		
+		/**************/
+		$(".controll_icon2").click(function(){
+//			$(this).next(".video_cont").find("video").get(0).play();
+		})
+		/*********************/
+		$(".video_box").find(".video_cont:first").css("display","block");
+		$(".tab3_sp li").each(function(j){
+			$(this).click(function(){
+				$(".controll_icon").fadeIn();
+                 $(this).parents(".tab3_sp").prev(".video_box").find("video").get(0).pause();
+                  $(this).parents(".tab3_sp").prev(".video_box").find("video").get(1).pause();
+                   $(this).parents(".tab3_sp").prev(".video_box").find("video").get(2).pause();
+				$(".tab3_sp li").removeClass("active");
+				$(this).addClass("active");
+				$(".video_cont").hide();
+				$(".video_cont:eq("+j+")").show();
+			});
+		});
+
+		/*****/
+		var oSj = 12000;
+		var bar = $(".lin_bar_cont");
+		/*************************/
+		function barAniMate(){
+			bar.animate({width:'100%'},oSj,function(){
+				$(this).css('width',0);
+			});
+		}
+		barAniMate();
+		var swiperpc = new Swiper('.pc_silder .swiper-container', {
+			loop : true,
+			pagination: '.swiper-pagination',
+			paginationClickable: true,
+			autoplay : 12000,
+			paginationType : 'fraction',
+			autoplayDisableOnInteraction : false,
+			paginationFractionRender: function (swiper, currentClassName, totalClassName) {
+				return '<em class="">0<b class="' + currentClassName + '"></b></em>' +
+						'<i class="">0<b class="' + totalClassName + '"></b></i>';
+			},
+			 observer:true,//修改swiper自己或子元素时，自动初始化swiper
+          observeParents:true,//修改swiper的父元素时，自动初始化swiper
+			onAutoplay: function(swiper){
+				barAniMate();//进度条函数动画效果
+			}
+		});
+		//*****************/
+		$('.arrow-left').click(function(){
+			swiperpc.slidePrev();
+			bar.stop().css('width',0);
+			barAniMate();//进度条函数动画效果
+
+		});
+
+		$('.arrow-right').click(function(){
+			swiperpc.slideNext();
+			bar.stop().css('width',0);
+			barAniMate();//进度条函数动画效果
+		});
+		/*******************************************/
+		var swiper = new Swiper('.phone_silder .swiper-container', {
+			loop : true,
+			autoplay : 12000,
+			pagination : '.swiper-pagination2',
+			autoplayDisableOnInteraction : false,
+		});
+		var isPC=IsPC();
+		if(isPC){
+			
+					$(".box_3").hover(function(){
+						$(this).find(".video_box").next(".tab3_sp").css("bottom","0");
+					},function(){
+						$(this).find(".video_box").next(".tab3_sp").css("bottom","-500px");
+					});
+					var Slideicon = function (element,options) {
+					        this.element = element;
+					        this.options = {
+					            cover:options.cover,
+					            index:options.index,
+					            callback:options.callback
+					        };
+					        this.init();
+					    };
+					    Slideicon.prototype.init = function () {
+					        var _this = this;
+					        this.element.on('click','li',function(){
+					            $(this).nextAll().removeClass('active');
+					            $(this).prevAll().removeClass('active');
+					            var width = $(this).width();
+					            var left = ($(this).index())*width;
+					            _this.options.cover.attr("style","left:"+left+"px");
+					            $(this).addClass("active");
+					            params = $(this).attr('type');
+					            _this.options.callback(params)
+					        });
+					    };
+					 new Slideicon($(".tab3_sp"),{
+						index:0,
+						cover:$(".hau_k"),
+						callback:function (data) {
+							console.log(data)
+						}
+					});
+   
+					    
+			/***********/
+			$('#dowebok').fullpage({
+				slidesColor: ['#fff', '#fff', '#fff', '#fff', '#fff'],
+				anchors: ['page1', 'page2', 'page3', 'page4',"page5"],
+				menu: '#menu',
+				css3: true,
+				loopBottom: false,
+				continuousVertical:false,
+				scrollingSpeed: 700,
+				navigationPosition: 'right',
+				responsiveWidth: 1024,
+				parallax: true,
+				parallaxOptions: { type: 'cover', percentage: 100, property: 'translate'},
+				afterLoad: function(anchorLink, index){
+					if(index==3){
+						setTimeout(function(){ 
+							$("#vido_one").show()
+						}, 500);
+					  $(".controll_icon").fadeIn()
+                       $(".picvdo").show()
+					}
+					
+					
+					
+				},
+				onLeave: function(index, direction){
+                    if(index==3){
+					   $("#vido_one").hide();
+					   $(".controll_icon").fadeOut()
+                       $(".picvdo").hide()
+					}
+				},
+			});
+			function autoScrolling(){
+				var $ww = $(window).width();
+				if($ww < 1024){
+					$.fn.fullpage.setAutoScrolling(false);
+				} else {
+					$.fn.fullpage.setAutoScrolling(true);
+				}
+			}
+			autoScrolling();
+
+		}
+		else{
+			//这里执行的是移动端的代码；
+		}
+
+
+
+
+	});
+	function IsPC() {
+		var userAgentInfo = navigator.userAgent;
+		var Agents = ["Android", "iPhone",
+			"SymbianOS", "Windows Phone",];
+		var flag = true;
+		for (var v = 0; v < Agents.length; v++) {
+			if (userAgentInfo.indexOf(Agents[v]) > 0) {
+				flag = false;
+				break;
+			}
+		}
+		return flag;
+	};
+
+
+
+</script>
+</body>
+</html>
